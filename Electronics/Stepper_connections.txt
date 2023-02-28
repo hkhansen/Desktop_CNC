@@ -1,0 +1,4 @@
+Grøn - Grøn
+Brun - Blå
+Gul - Sort
+Hvid - Rød
